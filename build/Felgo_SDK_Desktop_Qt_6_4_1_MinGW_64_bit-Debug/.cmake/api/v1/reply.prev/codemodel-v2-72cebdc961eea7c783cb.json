@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-46638be0c3a9455f2ae5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ListViewModel",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Felgo_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Felgo_other_files-Debug-c3d2ac36e7130f218dc2.json",
+					"name" : "Felgo_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Felgo_resources_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Felgo_resources_1-Debug-91f3ed4fbd5dde523631.json",
+					"name" : "Felgo_resources_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Felgo_resources_1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Felgo_resources_1_autogen-Debug-fe48f1ba24177ff3cd4b.json",
+					"name" : "Felgo_resources_1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Felgo_resources_1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Felgo_resources_1_autogen_timestamp_deps-Debug-8180fbfb468972fbbbc1.json",
+					"name" : "Felgo_resources_1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-a1ad970c1dd4f84f290f.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-44efc07c077841a7f6bc.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-1efd45c20d5ea7a0e417.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appListViewModel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appListViewModel-Debug-524fd0a0219bb6630ee6.json",
+					"name" : "appListViewModel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appListViewModel_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appListViewModel_autogen-Debug-0613b46d990ae36c9424.json",
+					"name" : "appListViewModel_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appListViewModel_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appListViewModel_autogen_timestamp_deps-Debug-8b4be3ee2ec3c09476d5.json",
+					"name" : "appListViewModel_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appListViewModel_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appListViewModel_other_files-Debug-1326e6cdb6b8a070a5f7.json",
+					"name" : "appListViewModel_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appListViewModel_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appListViewModel_qmlimportscan-Debug-084730e3d58729d26032.json",
+					"name" : "appListViewModel_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appListViewModel_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appListViewModel_qmllint-Debug-5aaa92507487d20901f6.json",
+					"name" : "appListViewModel_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appListViewModel_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appListViewModel_qmllint_json-Debug-1c0080e755cf5ec70726.json",
+					"name" : "appListViewModel_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appListViewModel_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appListViewModel_qmltyperegistration-Debug-600e7007883ed806d926.json",
+					"name" : "appListViewModel_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appListViewModel_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appListViewModel_tooling-Debug-ff54210b2f1ecfc33201.json",
+					"name" : "appListViewModel_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/ListViewModel/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+		"source" : "D:/ListViewModel"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

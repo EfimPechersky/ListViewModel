@@ -1,0 +1,15 @@
+-rootPath
+D:/ListViewModel
+-cmake-output
+-output-file
+D:/ListViewModel/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appListViewModel.cmake
+-importPath
+D:/ListViewModel/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ListViewModel
+-importPath
+D:/ListViewModel/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug
+-importPath
+D:/Felgo/Felgo/mingw_64/./qml
+-qrcFiles
+D:/ListViewModel/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/qmake_ListViewModel.qrc
+D:/ListViewModel/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/qmake_ListViewModel_copy.qrc
+D:/ListViewModel/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/appListViewModel_raw_qml_0.qrc

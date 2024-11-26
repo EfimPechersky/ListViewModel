@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="qml/PageFooter.qml">D:/ListViewModel/qml/PageFooter.qml</file>
+    <file alias="qml/MessageDelegate.qml">D:/ListViewModel/qml/MessageDelegate.qml</file>
+  </qresource>
+</RCC>
+

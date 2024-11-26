@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/ListViewModel">
+    <file alias="qmldir">D:/ListViewModel/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/ListViewModel/qmldir</file>
+  </qresource>
+</RCC>
+

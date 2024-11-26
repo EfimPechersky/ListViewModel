@@ -1,0 +1,6 @@
+module ListViewModel
+typeinfo appListViewModel.qmltypes
+prefer :/
+PageFooter 1.0 qml/PageFooter.qml
+MessageDelegate 1.0 qml/MessageDelegate.qml
+
